@@ -1,4 +1,4 @@
 {
-    "editor.defaultFormatter": "burkeholland.simple-react-snippets",
-    "editor.formatOnSave": true
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true
 }
