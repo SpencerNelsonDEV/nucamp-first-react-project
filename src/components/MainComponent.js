@@ -5,7 +5,7 @@ import Header from "./HeaderComponent";
 import Footer from "./FooterComponent";
 import Home from "./HomeComponent";
 import Contact from "./ContactComponent";
-import { Switch, Route, Redirect, Router } from "react-router-dom";
+import { Switch, Route, Redirect } from "react-router-dom";
 import { CAMPSITES } from "../shared/campsites";
 import { COMMENTS } from "../shared/comments";
 import { PARTNERS } from "../shared/partners";
